@@ -120,8 +120,3 @@ Thanks for stopping by and checking out what I've put together here. I appreciat
 ## License  <a id="license"></a>
 This project is released under the MIT [LICENSE](https://github.com/catherineisonline/edgy/blob/main/LICENSE). You can find the specific terms and conditions outlined in the LICENSE file. This means you're free to utilize, modify, and distribute the project according to the terms of the MIT License.
 
-#### Build Your Portfolio:
-Feel free to incorporate this project into your personal portfolio! Showcase your skills and creativity by featuring your adaptations or implementations of this project. Just make sure to follow the guidelines of the MIT License while doing so.
-
-Happy coding!
-
